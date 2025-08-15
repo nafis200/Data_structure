@@ -79,4 +79,4 @@ int main()
    cout << query(1,1,n,2,3) << "\n"; 
    for(int i = 1; i <= 2 * n; i++) 
    cout << t[i] << " "; 
-  
+}
